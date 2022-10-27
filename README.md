@@ -2,7 +2,7 @@
 
 ## Description
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+This Refactor Challenge was about typing and elememnts that can help us to easy digest the information presented on the inicial code by using semantic elements.
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+To use this Refactor Challenge, you can review the notes in CSS to see the elements I changed to complete my challenge and make it work and look like the Acceptance Criteria. The page content the information if about Horiseon with is a page for Engine Optimization.
 
 ## Credits
 
